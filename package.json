@@ -1,0 +1,13 @@
+{
+  "name": "bare-template",
+  "version": "0.0.1",
+  "description": "bare-template",
+  "main": "index.js",
+  "scripts": {
+    "build": "harold-scripts build",
+    "start": "harold-scripts start"
+  },
+  "devDependencies": {
+    "harold-scripts": "^0.4.1"
+  }
+}
